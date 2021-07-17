@@ -1,0 +1,36 @@
+h1,p1, input{
+    font-family: 'Lato',sans-serif;
+}
+
+
+
+#speechcontainer{
+    margin:20px;
+}
+
+
+#submitbutton{
+    background-color:#0191FE;
+    color:white;
+    border-radius 6px;
+    border:none;
+    padding:10px 30px;
+    margin-top: 20px;
+
+}
+
+#submitbutton:hover{
+    cursor:pointer;
+}
+
+
+#speechtranscripter{
+    margin-top 20px;
+
+}
+
+
+#speechtext{
+    font-size: 18px;
+    width: 500px;
+}
